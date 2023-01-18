@@ -1,6 +1,6 @@
 {
   "name": "@amaroyche/pp-test",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "publish package test",
   "publishConfig": {
     "access": "public"
