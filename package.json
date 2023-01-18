@@ -1,9 +1,9 @@
 {
   "name": "@amaroyche/pp-test",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "publish package test",
   "publishConfig": {
-    "@amaroyche:registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "main": "index.js",
   "type": "module",
