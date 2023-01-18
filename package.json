@@ -1,15 +1,12 @@
 {
   "name": "@amaroyche/pp-test",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "publish package test",
   "publishConfig": {
     "access": "public"
   },
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amaroyche/pp-test.git"
