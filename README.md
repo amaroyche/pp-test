@@ -2,13 +2,16 @@
 publish package test
 
 # Installation
-
+```
+npm install @amaroyche/pp-test
+```
 
 # Function
 
 ```js
-//A comment 
-function logger(arguments) {
-  console.log(arguments)
-}
+// Example
+import { logger } from '@amaroyche/pp-test'
+
+logger('Test')
+logger('Test', 'Test2')
 ```
