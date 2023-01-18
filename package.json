@@ -1,6 +1,6 @@
 {
   "name": "@amaroyche/pp-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "publish package test",
   "publishConfig": {
     "@amaroyche:registry": "https://npm.pkg.github.com"
